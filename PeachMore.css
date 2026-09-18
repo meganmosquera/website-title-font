@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'PeachMore';
+  src: url('https://raw.githubusercontent.com/meganmosquera/website-title-font/main/PeachMore.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: 'PeachMore', sans-serif;
+}
